@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+The most profound solutions are often simple. I am Bhavin Patanwadia, pursuing my Master's in Computer Science from Stevens Institute of Technology. With a diverse 
+background in software engineering, I've honed my skills in Java, JavaScript, and leveraged frameworks such as MERN Stack, and cloud-native tools like Docker to deliver impactful solutions. 
+
+I come from a family of engineers, therefore, saying "It works because it works" was never on the plate. I have developed a curious nature that drives me to explore and formulate different solutions. When it comes to programming and product development, I have an insatiable need to grow and improve. I constantly try to get better and pick up new skills.
+
+Throughout my academic journey, I've expanded my knowledge base through courses in Algorithms, Web programming, Data structures, Cloud Computing, and Computer Networks. Additionally, I'm diligently learning and preparing for the AWS Developers Associate Certification.
+
+I am actively seeking internships and full-time opportunities to contribute to innovative software solutions. If you're looking for a dedicated and enthusiastic team member who can bring fresh perspectives and an appetite for continuous improvement, I'd love to connect and explore potential collaborations. I'm always eager to explore new opportunities and embrace exciting challenges!
