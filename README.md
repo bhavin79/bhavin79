@@ -1,5 +1,3 @@
-### Hi there 👋
-
 The most profound solutions are often simple. I am Bhavin Patanwadia, pursuing my Master's in Computer Science from Stevens Institute of Technology. With a diverse 
 background in software engineering, I've honed my skills in Java, JavaScript, and leveraged frameworks such as MERN Stack, and cloud-native tools like Docker to deliver impactful solutions. 
 
