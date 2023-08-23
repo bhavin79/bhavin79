@@ -10,7 +10,7 @@
 ### Technical Skills
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,react,express,mongodb,django,mysql,docker,figma,js,py,html,css)]
+![My Skills](https://skillicons.dev/icons?i=aws,react,express,mongodb,django,mysql,docker,figma,js,py,html,css)
 
 
 <!--
