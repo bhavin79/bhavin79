@@ -1,6 +1,5 @@
 <p align ="center">
-<h1> Hello there, I am <a href ="https://www.linkedin.com/in/bhavin-patanwadia">Bhavin Patanwadia</a> </h1>
-<hr>
+<h3> Hello there, I am <a href ="https://www.linkedin.com/in/bhavin-patanwadia">Bhavin Patanwadia</a> </h3>
 </p>
 
 - :computer: Backend Developer
@@ -11,7 +10,7 @@
 ### Technical Skills
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,react,express,mongodb,django,mysql,docker,figma,js,py,html,css&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,express,mongodb,django,mysql,docker,figma,js,py,html,css)](https://skillicons.dev)
 
 
 <!--
