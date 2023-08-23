@@ -1,5 +1,6 @@
 <p align ="center">
-<b> Hello there, I am <a href ="https://www.linkedin.com/in/bhavin-patanwadia">Bhavin Patanwadia</a> </b>
+<h1> Hello there, I am <a href ="https://www.linkedin.com/in/bhavin-patanwadia">Bhavin Patanwadia</a> </h1>
+<hr>
 </p>
 
 - :computer: Backend Developer
