@@ -1,7 +1,7 @@
 <p align ="center">
 <h3> Hello there, I am <a href ="https://www.linkedin.com/in/bhavin-patanwadia">Bhavin Patanwadia</a> </h3>
 </p>
-<hr></hr>
+
 - :computer: Backend Developer
 - :hammer_and_wrench: AWS Certified Developer Associate
 - :rocket: Currently working with MERN Stack
