@@ -1,6 +1,7 @@
 
 ### 👋 Hello there, I am [Bhavin Patanwadia](https://www.linkedin.com/in/bhavin-patanwadia)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bhavin-patanwadia)
+
+#### I am:
 - :computer: Backend Developer
 - :hammer_and_wrench: AWS Certified Developer Associate
 - :rocket: Currently working with MERN Stack
@@ -9,7 +10,7 @@
 ### Technical Skills
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,react,express,mongodb,django,mysql,docker,figma,js,py,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,express,mongodb,django,mysql,docker,figma,js,py,html,css)]
 
 
 <!--
