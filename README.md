@@ -1,6 +1,5 @@
-<p align ="center">
-<h3> Hello there, I am <a href ="https://www.linkedin.com/in/bhavin-patanwadia">Bhavin Patanwadia</a> </h3>
-</p>
+
+### 👋 Hello there, I am [Bhavin Patanwadia](https://www.linkedin.com/in/bhavin-patanwadia)
 
 - :computer: Backend Developer
 - :hammer_and_wrench: AWS Certified Developer Associate
