@@ -2,15 +2,15 @@
 ### 👋 Hello there, I am [Bhavin Patanwadia](https://www.linkedin.com/in/bhavin-patanwadia)
 
 #### I am:
-- :computer: Backend Developer
-- :hammer_and_wrench: AWS Certified Developer Associate
+- :computer: Full Stack Developer
+- :hammer_and_wrench: AWS Certified Developer Associate [link](https://www.credly.com/badges/9c647077-5557-4d35-9333-23feff9a8c04/public_url)
 - :rocket: Currently working with MERN Stack
 - :handshake: Looking to collaborate on Cloud as well as Full stack projects
 
 ### Technical Skills
 <hr>
 
-![My Skills](https://skillicons.dev/icons?i=aws,react,express,mongodb,django,mysql,docker,figma,js,py,html,css)
+![My Skills](https://skillicons.dev/icons?i=aws,react,typescript,express,mongodb,django,mysql,docker,figma,js,py,html,css)
 
 
 <!--
