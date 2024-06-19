@@ -4,7 +4,7 @@
 #### I am:
 - :computer: Full Stack Developer
 - :hammer_and_wrench: AWS Certified Developer Associate ( [link](https://www.credly.com/badges/9c647077-5557-4d35-9333-23feff9a8c04/public_url) )
-- :rocket: Currently working with MERN Stack
+- :rocket: Currently working with Java Spring Boot and React
 - :handshake: Looking to collaborate on Cloud as well as Full stack projects
 
 ### Technical Skills
